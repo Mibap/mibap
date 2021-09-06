@@ -1,9 +1,10 @@
 ![첫이미지](https://raw.githubusercontent.com/mibap/mibap/gh-pages/2%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5%2012%20%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB%205.jpg)
 
-## Resume_Hyunmi Lee
+## Resume: Hyunmi Lee
 
-Hello, this is Hyunmi Lee.
- 
+안녕하세요! 디자이너 이현미입니다.
+디자인을 통해 `특별한 떨림과 울림`을 선사하고싶습니다.
+
 ### Contact
 
 ✉️lhm961026@ewhain.net
