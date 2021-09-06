@@ -1,37 +1,22 @@
-## Lee Hyunmi Resume
+## Resume_Hyunmi Lee
 
-안녕하세요 이현미입니다. 
+Hello, this is Hyunmi Lee.
+ 
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+✉️lhm961026@ewhain.net
 
-### Markdown
+### Education
+1. Ewha Womans' Univ. : 2015.03 - 2021.02
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+_(주)신세계인터내셔날 JAJU_ 그래픽 디자인 파견사원
+_이화여자대학교 자연사박물관_ 연구 프로젝트 디자인
+_(주)DT_ 카페 브랜딩
+**포트폴리오는 메일로 문의 바랍니다**
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mibap/mibap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Skills
+'Illustrator', 'Indesign', 'Photoshop', 'Aftereffect'
